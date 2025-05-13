@@ -3,24 +3,24 @@
 **Status:** Work in Progress  
 **Author:** Steven Loucks  
 **Version:** 1.0  
-**Lab Type:** Standalone Detection Environment  
+**Lab Type:** Standalone Detection Environment (Post-AD Lab Progression)  
 **Focus:** Threat Detection, Logging, EDR, IDS, and MITRE ATT&CK Mapping
 
 ---
 
 ## Overview
 
-Detection Lab 1.0 is a standalone virtual environment designed to explore detection technologies such as endpoint detection and response (EDR), intrusion detection systems (IDS), and centralized logging. This lab supports hands-on experimentation with security tooling and maps findings to MITRE ATT&CK techniques.
+Detection Lab 1.0 builds directly on the foundation established in [Active Directory Lab 1.0](https://github.com/sloucks623/lab-active-directory-1.0). While the AD lab focused on infrastructure, domain services, and internal networking, this lab shifts to **detecting, analyzing, and responding to threats** using modern security tooling.
 
 ---
 
 ## Objectives
 
 - Deploy and configure open-source EDR/IDS tools
-- Capture and analyze malicious behavior
+- Capture and analyze malicious behavior in a Windows domain
 - Map detections to MITRE ATT&CK
-- Generate real-world logging for analysis
-- Practice detection engineering and log analysis
+- Generate and visualize logs from real-world simulation tools
+- Practice detection engineering and incident response basics
 
 ---
 
@@ -37,14 +37,19 @@ Detection Lab 1.0 is a standalone virtual environment designed to explore detect
 
 ## Topology
 
-> ![Detection Lab Topology](./diagram/detection-lab1-topology.drawio.png)  
-*A high-level view of the environment architecture.*
+### Source Architecture (From AD Lab 1.0)
+> ![AD Lab 1.0 Topology](https://raw.githubusercontent.com/sloucks623/lab-active-directory-1.0/main/diagram/ad-lab1-topology.drawio.png)  
+*Original lab topology this detection environment builds upon.*
+
+### Detection Lab 1.0 – Planned Logical Diagram
+> _**[Diagram in progress: `diagram/detection-lab1-topology.drawio.png`]**_  
+_A detailed detection-focused layout will be uploaded once finalized in Draw.io._
 
 ---
 
 ## Installation Notes
 
-_(Coming soon: Step-by-step installation walkthroughs)_
+_(Coming soon: Step-by-step installation walkthroughs for each tool)_
 
 ---
 
@@ -63,7 +68,7 @@ _(Coming soon: Step-by-step installation walkthroughs)_
 |-------------|------------------------|-------------------|
 | Execution   | T1059.001 PowerShell   | Sysmon, Sigma     |
 | Discovery   | T1082 System Info      | Velociraptor      |
-| Command & Control | T1071.001 Web Traffic | Zeek             |
+| Command & Control | T1071.001 Web Traffic | Zeek         |
 
 ---
 
