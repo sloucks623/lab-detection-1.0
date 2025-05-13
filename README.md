@@ -38,7 +38,9 @@ Detection Lab 1.0 builds directly on the foundation established in [Active Direc
 ## Topology
 
 ### Source Architecture (From AD Lab 1.0)
-> ![AD Lab 1.0 Topology](https://raw.githubusercontent.com/sloucks623/lab-active-directory-1.0/main/diagram/ad-lab1-topology.drawio.png)  
+> ![AD Lab 1.0 Topology](### Source Architecture (From AD Lab 1.0)
+![AD Lab 1.0 Topology](https://raw.githubusercontent.com/sloucks623/lab-active-directory-1.0/main/diagrams/ad-lab1.0.drawio.png)  
+*Original lab topology this detection environment builds upon.*)  
 *Original lab topology this detection environment builds upon.*
 
 ### Detection Lab 1.0 – Planned Logical Diagram
