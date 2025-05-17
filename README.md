@@ -8,6 +8,10 @@
 
 ---
 
+[🔗 Return to My Portfolio](https://sloucks623.github.io)
+
+---
+
 ## Overview
 
 Detection Lab 1.0 builds directly on the foundation established in [Active Directory Lab 1.0](https://github.com/sloucks623/lab-active-directory-1.0). While the AD lab focused on infrastructure, domain services, and internal networking, this lab shifts to **detecting, analyzing, and responding to threats** using modern security tooling.
@@ -80,7 +84,7 @@ _(Screenshots of detections and dashboards will be added here.)_
 
 ---
 
-[🔗 Return to My Portfolio](https://sloucks623.github.io)
+[My Portfolio](https://stevenloucks.tech) | [LinkedIn](https://www.linkedin.com/in/steven-loucks)
 
 ---
 
