@@ -80,6 +80,10 @@ _(Screenshots of detections and dashboards will be added here.)_
 
 ---
 
+[🔗 Return to My Portfolio](https://sloucks623.github.io)
+
+---
+
 ## Author Notes
 
 This project is part of my cybersecurity training and portfolio development. All tools used are open-source and installed in a local virtual lab for educational purposes.
