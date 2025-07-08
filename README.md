@@ -93,3 +93,5 @@ _(Screenshots of detections and dashboards will be added here.)_
 This project is part of my cybersecurity training and portfolio development. All tools used are open-source and installed in a local virtual lab for educational purposes.
 ---
 📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
+---
+📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
